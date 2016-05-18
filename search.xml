@@ -336,7 +336,7 @@ data.writeInterfaceToken(IServiceManager::getInterfaceDescriptor());
     </entry>
     
     <entry>
-      <title><![CDATA[XW-Android]]></title>
+      <title><![CDATA[XW-Android-01]]></title>
       <url>https://github.com/pkjueying/pkjueying.github.io/2013/12/18/XW-Android-01/</url>
       <content type="html"><![CDATA[<h3 id="关机充电图标不显示："><a href="#关机充电图标不显示：" class="headerlink" title="关机充电图标不显示："></a>关机充电图标不显示：</h3><p>现象：<br>开机后，插入充电器，再按正常流程关机。 关机后，短按power键，屏幕无充电图标显示(此时充电器还是插入的)。</p>
 <p>解决方法：<br>配置 [pmu_para] power_start = 0 即可</p>
