@@ -217,7 +217,7 @@ data.writeInterfaceToken(IServiceManager::getInterfaceDescriptor());
     </entry>
     
     <entry>
-      <title><![CDATA[ android4.2 开机动画跟踪]]></title>
+      <title><![CDATA[ Android4.2 开机动画跟踪]]></title>
       <url>https://github.com/pkjueying/pkjueying.github.io/2014/04/11/Android-%E5%BC%80%E6%9C%BA%E5%8A%A8%E7%94%BB%E8%B7%9F%E8%B8%AA/</url>
       <content type="html"><![CDATA[<blockquote>
 <p>Android4.2 源码， UnderStand源码阅读</p>
