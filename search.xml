@@ -51,7 +51,7 @@
     <entry>
       <title><![CDATA[binder简要学习]]></title>
       <url>https://github.com/pkjueying/pkjueying.github.io/2016/03/17/binder01/</url>
-      <content type="html"><![CDATA[<h1 id="Binder"><a href="#Binder" class="headerlink" title="Binder"></a>Binder</h1><h3 id="本文目标"><a href="#本文目标" class="headerlink" title="本文目标"></a>本文目标</h3><p>理解Binder对于理解整个Android系统有着非常重要的作用，Android系统的四大组件，AMS，PMS等系统服务无一不与Binder挂钩；如果对Binder不甚了解，那么就很难了解这些系统机制.</p>
+      <content type="html"><![CDATA[<h3 id="本文目标"><a href="#本文目标" class="headerlink" title="本文目标"></a>本文目标</h3><p>理解Binder对于理解整个Android系统有着非常重要的作用，Android系统的四大组件，AMS，PMS等系统服务无一不与Binder挂钩；如果对Binder不甚了解，那么就很难了解这些系统机制.</p>
 <p>要真正的弄明白 Binder机制 还是比较麻烦的，我们今天只是大致的介绍一下在应用层怎么使用</p>
 <p>本文目标:</p>
 <ul>
